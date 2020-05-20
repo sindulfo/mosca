@@ -1,4 +1,4 @@
-var path="https://github.com/sindulfo/mosca/blob/master/mberu.png";
+var path="https://raw.githubusercontent.com/sindulfo/mosca/master/mberu.png";
 
 
 /* obtengo el tamaÃ±o de la ventana */
