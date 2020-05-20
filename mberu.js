@@ -1,4 +1,4 @@
-var path="https://frank.urugate.com/flies.png";
+var path="https://github.com/sindulfo/mosca/blob/master/mberu.png";
 
 
 /* obtengo el tamaÃ±o de la ventana */
